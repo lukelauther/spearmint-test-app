@@ -1,0 +1,18 @@
+/* #main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(208, 208, 208);
+    gap: 30px;
+    border: 1px solid black;
+    padding: 50px;
+    margin: 0px 20rem;
+}
+
+#counter {
+    font-size: 20px;
+}
+
+.button {
+    padding: 10px 15px;
+} */
